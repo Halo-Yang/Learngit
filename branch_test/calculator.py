@@ -7,3 +7,5 @@ print(f"x + y = {x + y}")
 print(f"x - y = {x - y}")
 
 print(f"x * y = {x * y}")
+
+print(f"x + y + 2 = {x + y + 2}")

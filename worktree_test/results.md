@@ -7,8 +7,8 @@ description: This is the result of a test using worktree
 1. Initialized a branch master in student-manager
 2. Wrote a main.py in student-manager, containing some student datas
 
-3. Created a worktree with branch feature/average                               --git worktree feature/average ../student-average
-4. Created a worktree with branch feature/ranking                               --git worktree feature/ranking ../student-ranking
+3. Created a worktree with branch feature/average                               --git worktree add -b feature/average ../student-average
+4. Created a worktree with branch feature/ranking                               --git worktree add -b feature/ranking ../student-ranking
 
 > **Switch worktree by switching directories in bash**
 

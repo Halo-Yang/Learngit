@@ -50,7 +50,7 @@ Description: This is a .md file listing some most important git commands
 - git switch master                     切换到master
 - git switch -                          返回上一分支
 
-- git merge feature-x                   将feature-x合与当前分支合并
+- git merge feature-x                   将feature-x与当前分支合并
 - git branch -d feature-x               安全删除已合并的分支
 
 ## Worktree

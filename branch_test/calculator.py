@@ -1,6 +1,6 @@
 
-x = input("x = ")
-y = input("y = ")
+x = int(input("x = "))
+y = int(input("y = "))
 
 print(f"x + y = {x + y}")
 
@@ -8,4 +8,4 @@ print(f"x - y = {x - y}")
 
 print(f"x * y = {x * y}")
 
-print(f"x + y + 1 = {x + y + 1}")
+print(f"x + y + 0 = {x + y + 0}")
